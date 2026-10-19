@@ -2,4 +2,4 @@
 
 Web dashboard for ColdSense, built with React and Firebase.
 
-alsalam alico
+hello this is my capstone project
